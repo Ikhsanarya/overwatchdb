@@ -62,3 +62,48 @@
       }
     ]
   }
+
+{
+    "player": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/dPJ2Rkn/1danteh.jpg",
+        "name": "Dante Cruz 'Danteh'",
+        "Role":"DPS",
+        "Team":"Houston Outlaws",
+        "Hometown":"United States, Chicago,IL"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/Pg7ywGV/3striker.jpg",
+        "name": "Nam Ju Gwon 'Striker'",
+        "Role":"DPS",
+        "Team":"Boston Uprising",
+        "Hometown":"South Korea, Wonju"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/Pw3NHwj/4carpe.jpg",
+        "name": "Jae Hyeok Lee 'Carpe'",
+        "Role":"DPS",
+        "Team":"Philadelphia Fusion",
+        "Hometown":"South Korea, Daejeon"
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/jW1TRXQ/5fleta.jpg",
+        "name": "Byung Sun Kim 'Fleta'",
+        "Role":"DPS",
+        "Team":"Shanghi Dragon",
+        "Hometown":"South Korea, Namyangju"
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/mHy1sCc/6fate.jpg",
+        "name": "Pan Seung Koo 'Fate'",
+        "Role":"DPS",
+        "Team":"Shanghai Dragon",
+        "Hometown":"South Korea, Seoul"
+      }
+    ]
+  }
